@@ -1,3 +1,8 @@
+/**
+ * @author : Sheik Mohideen
+ * @email  : nihalsheik@yahoo.com, s.nihalsheik.com
+ * @org    : Metron
+ */
 (function($) {
     var options = {};
 
