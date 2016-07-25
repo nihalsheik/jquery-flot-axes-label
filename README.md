@@ -2,6 +2,7 @@
 
 Usage : 
 
+<pre>
 xaxis: {
   label : {
     fontSize: 12,
@@ -12,3 +13,4 @@ xaxis: {
     marginRight: 20
   }
 }
+</pre>
